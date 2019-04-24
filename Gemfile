@@ -17,4 +17,6 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
+    gem "rake"
+    ruby "2.4.2"
 end
