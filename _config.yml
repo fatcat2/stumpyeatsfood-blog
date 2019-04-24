@@ -4,7 +4,7 @@ title: "eatwithmee"
 description: "ryan chen eats food"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 include: ["_pages"]
