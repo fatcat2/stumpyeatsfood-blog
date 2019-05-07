@@ -4,8 +4,8 @@ title:  "Cooking your own meal at a restaurant – Sizzling Lunch in Cupertino, 
 author: ryan
 categories: [ Taiwan, restaurant ]
 image: assets/images/050519sizzling/sizzling_mixed.jpg
-description: "Have you ever wanted to cook your own meal for $13?"
-published: false
+description: "Have you ever wanted to cook your own meal for $13"
+published: true
 rating: 3.5
 ---
 
